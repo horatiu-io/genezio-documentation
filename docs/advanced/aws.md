@@ -1,6 +1,14 @@
+---
+description: Learn to deploy your project independently on your AWS. Our guide provides everything you need for harness the capabilities of genezio without an account
+---
+
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 # Self hosted
+
+<head>
+    <title>Self-hosting Solution</title>
+</head>
 
 For enhanced control over your cloud assets, you have the choice to deploy your project independently on your AWS account. This arrangement allows you to harness the capabilities of the genezio CLI without a genezio account. To accomplish this, specify the backend `cloudProvider` attribute in your `genezio.yaml` as `selfHostedAws`.
 
