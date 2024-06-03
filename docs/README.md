@@ -34,7 +34,7 @@ Genezio empowers you to bring your ideas to life. Here are some of the exciting 
 
 Start your journey with Genezio today and unlock the potential to build, deploy, and scale your applications like never before. Whether you're a solo developer or part of a team, Genezio is your trusted partner for turning your ideas into reality.
 
-Explore the sections below for detailed instructions, tutorials, and API references to make the most of Genezio's powerful features.
+Explore the sections below for detailed instructions, tutorials, and API references or [search our documentation](https://genezio.com/docs/search/) to make the most of Genezio's powerful features.
 
 :::info[]
 Join our [Discord](https://discord.gg/uc9H5YKjXv) community.
