@@ -15,7 +15,7 @@ import TabItem from '@theme/TabItem';
 
 At Genezio, we’re all about making the deployment process as seamless as possible. Whether you're a seasoned developer or just getting started, deploying your projects should be quick, easy, and efficient. That’s why we’ve made it incredibly simple to import your existing projects into Genezio.
 
-Genezio provides a powerful platform that’s optimized for deploying full-stack projects, including frameworks like Next.js, Express.js, React, Vue, Angular. When you use one of Genezio's [Supported Languages](https://genezio.com/docs/learn-more/supported-languages/s), we’ll automatically detect your setup and apply the best build and deployment configurations for your project.
+Genezio provides a powerful platform that’s optimized for deploying full-stack projects, including frameworks like Next.js, Express.js, React, Vue, Angular. When you use one of Genezio's [Supported Languages](https://genezio.com/docs/learn-more/supported-languages/), we’ll automatically detect your setup and apply the best build and deployment configurations for your project.
 
 In this article, we'll guide you through the steps to bring your GitHub projects to Genezio, so you can spend more time building and less time on deployment.
 
